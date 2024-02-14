@@ -1,0 +1,19 @@
+body {
+    font-family: "WingDings";
+    color: white;
+    background-color: pink;
+    text-align: center;
+    background-image: url(images/raininghearts.gif);
+    background-size: cover;
+}
+li,.poem {
+    text-align: left;
+    padding-left: 400px;
+}
+.goodluck {
+    font-family: fantasy;
+    color: rgb(255, 0, 0);
+}
+.readable {
+    font-family: fantasy;
+}
